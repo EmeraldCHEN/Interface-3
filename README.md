@@ -1,4 +1,3 @@
-# Interface 3
 
 Interface in C# - 3 Learn the basics of interfaces in C# | Interfaces - The What, Why, and How | Instructor: Tim Corey
 
