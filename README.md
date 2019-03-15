@@ -1,9 +1,5 @@
-# interface foreach ERROR
+# Interface 3
 
-Why is the result is only 
+Interface in C# - 3 Learn the basics of interfaces in C# | Interfaces - The What, Why, and How | Instructor: Tim Corey
 
-"Simulating shipping Football to Tim Corey in Scranton" 
-
-without 
-
-"Simulating shipping T-Shirt to Tim Corey in Scranton" and other statements?
+Retrived from https://www.youtube.com/watch?v=A7qwuFnyIpM&t=3s & https://iamtimcorey.com/interfaces/
