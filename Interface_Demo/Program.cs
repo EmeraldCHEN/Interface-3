@@ -21,11 +21,12 @@ namespace ConsoleUI
             {
                 product.ShipItem(customer);
                 // checking if a type implements an interface IDigitalProductModel
-                if (product is IDigitalProductModel digital)
-                {
-                    Console.WriteLine($"For the {digital.Title} you have {digital.TotalDownloadsLeft} downloads left.");
-                }
-                Console.ReadLine();
+                 Console.WriteLine($"check the value of this first : {product is IDigitalProductModel digital}");
+               // if (product is IDigitalProductModel digital)
+             //   {
+             //       Console.WriteLine($"For the {digital.Title} you have {digital.TotalDownloadsLeft} downloads left.");
+             //   }
+              //  Console.ReadLine();
             }
 
         }
