@@ -16,7 +16,7 @@ namespace Library
             // Interface doesn't lock you into only having what's in the contract
             if(HasOrderBeenCompleted == false)
             {
-                Console.WriteLine($"Simulating emailing {Title} to {customer.EmailAddress}");
+                Console.WriteLine($"Simulating emailing {Title} to {customer.EmailAddress} for {customer.FirstName} {customer.LastName}");
                 TotalDownloadsLeft--;
                 if(TotalDownloadsLeft < 1)
                 {
